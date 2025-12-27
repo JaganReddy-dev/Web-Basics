@@ -1,0 +1,10 @@
+.
+├── fr
+│   └── index.html
+├── fs.txt
+├── index.html
+└── public
+    ├── favicon.png
+    └── monochrome.webp
+
+3 directories, 5 files
